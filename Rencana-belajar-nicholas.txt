@@ -2,10 +2,12 @@ RENCANA BELAJAR NICHOLAS
 
 - Mengulas
  * MTK
-  ~ Wajib
   ~ Minat
+ * Kimia
+  ~ Asam basa
 - C++
 - Mengerjakan PR
 - Coding
- * Javascript
+ ~ Javascript
+- Pyhton
 - DLL
