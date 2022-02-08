@@ -3,6 +3,7 @@ RENCANA BELAJAR NICHOLAS
 - Mengulas
  * MTK
  * Kimia
+- C++
 - Mengerjakan PR
 - Coding
 - DLL
