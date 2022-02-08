@@ -4,6 +4,7 @@ RENCANA BELAJAR NICHOLAS
  * MTK
   ~ Minat
  * Kimia
+  ~ Asam basa
 - C++
 - Mengerjakan PR
 - Coding
