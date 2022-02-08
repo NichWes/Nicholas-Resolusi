@@ -2,8 +2,12 @@ RENCANA BELAJAR NICHOLAS
 
 - Mengulas
  * MTK
+  ~ Minat
  * Kimia
+  ~ Asam basa
 - C++
 - Mengerjakan PR
 - Coding
+ ~ Javascript
+- Pyhton
 - DLL
